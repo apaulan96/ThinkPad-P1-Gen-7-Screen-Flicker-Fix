@@ -19,7 +19,7 @@ Or clone via Git:
 sh
 Copy
 Edit
-git clone https://github.com/YOUR-USERNAME/Lenovo-P1-Gen7-Wifi-Fix.git
+git clone [https://github.com/YOUR-USERNAME/Lenovo-P1-Gen7-Wifi-Fix.git](https://github.com/apaulan96/ThinkPad-P1-Gen-7-Screen-Flicker-Fix/blob/main/P1%20Gen%207%20Screen%20Flicker%20Fix-%20Wifi%20Adapter%20Transmit%20Power%20From%20Highest%20To%20Medium.ps1)
 Open PowerShell as Administrator.
 Navigate to the script directory:
 powershell
